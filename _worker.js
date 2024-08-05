@@ -19,9 +19,7 @@ let addresses = [
 	'[2a06:98c1:3120::3]#Trauma-V6-√10',
 	'[2a06:98c1:3121::3]#Trauma-V6-√11',
 	'[2606:4700:310c::ac42:2f9f]#Trauma-V6-√12',
-	'[2606:4700:310c::ac42:2c61]#Trauma-V6-√13',
-
-];
+	'[2606:4700:310c::ac42:2c61]#Trauma-V6-√13',];
 
 let sub = '';
 let subconverter = 'url.v1.mk';// Clash subscription conversion backend, currently using Feiyang's subscription conversion function. Comes with fake node information to prevent leakage
